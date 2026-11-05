@@ -1,0 +1,20 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Training outputs and datasets
+runs/
+datasets/
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env

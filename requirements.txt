@@ -1,0 +1,6 @@
+
+streamlit==1.64.0
+ultralytics==8.4.163
+opencv-python==5.0.0.93
+av==17.1.0
+streamlit-webrtc==0.78.1
